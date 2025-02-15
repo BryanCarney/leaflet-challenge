@@ -2,7 +2,7 @@
 
 # Solved 
 
-For my submission, I chose to submit a single file because I initially started with a base map featuring a "satellite" view, alongside the required street view. As I was developing the functionality to toggle between these two map views for displaying earthquake data, I realized that it would be more efficient to include a third map view— a topographic map—since the code for toggling between the first two views was already in place. At that point, I decided to incorporate the tectonic plates into the views as well, as they are highly relevant and added value by enabling interesting exploratory analysis.    
+For my submission, I chose to submit a single file because I initially started with a base map featuring a "satellite" view, alongside the required "street" view. As I was developing the functionality to toggle between these two map views for displaying earthquake data, I realized that it would be more efficient to include a third map view— a topographic map—since the code for toggling between the first two views was already in place. At that point, I decided to incorporate the tectonic plates into the views as well, as they are highly relevant and added value by enabling interesting exploratory analysis.    
 
 ![image](https://github.com/user-attachments/assets/59e3f52f-7002-43d9-afa5-e151912e666f)
 
